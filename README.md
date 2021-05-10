@@ -1,1 +1,2 @@
 # ICS2O-Unit3-01-Go-Area_of_Trapizoid
+[![GitHub's Super Linter](https://github.com/Ryan-Shaw-2/ICS2O-Unit3-01-Go-Area_of_Trapizoid/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Ryan-Shaw-2/ICS2O-Unit3-01-Go-Area_of_Trapizoid/actions)
